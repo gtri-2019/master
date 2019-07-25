@@ -1,4 +1,4 @@
-# master
+# Master
 STEM @ GTRI 2019 Internship Program
 A Slice of Nutrition Pie
 
